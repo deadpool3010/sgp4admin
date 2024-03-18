@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247647765960",
+    "project_id": "mail-b8362",
+    "storage_bucket": "mail-b8362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247647765960:android:1a88e06274b74e1aa06cfd",
+        "android_client_info": {
+          "package_name": "com.example.mailing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247647765960-4ic4ksau10ssqafclf0hcdu7eanic03r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkkkW_V18K9KjDARsPW80H-PiyBA3TjBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247647765960-4ic4ksau10ssqafclf0hcdu7eanic03r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
